@@ -1,0 +1,3 @@
+leia num1
+leia num2
+escreva num1 + num2
