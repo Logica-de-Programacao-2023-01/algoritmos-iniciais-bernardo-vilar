@@ -1,0 +1,7 @@
+leia lista 
+leia tamanho
+soma = 0
+para elemento em lista:
+    soma = elemento + soma
+media = soma/tamanho
+escreva media
