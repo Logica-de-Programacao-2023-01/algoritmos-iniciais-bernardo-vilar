@@ -1,0 +1,6 @@
+leia lista
+leia alvo
+leia tamanho_lista
+para posicao em tamanho_lista:
+    se posicao == alvo:
+        escreva posicao
