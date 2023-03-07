@@ -1,0 +1,11 @@
+leia num
+leia potencia
+i = 1
+enquanto i < potencia:
+    num = num * num
+    i = i + 1
+    escreva num
+se potencia == 0:
+    escreva 1
+se potencia == 1:
+    escreva num
