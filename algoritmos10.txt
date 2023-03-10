@@ -1,0 +1,10 @@
+leia lista 
+leia pesos
+var resultado = 0
+var somatorio_pesos = 0
+para elemento em lista:
+	resultado = resultado + (elemento * peso_correspondente)
+para cada peso dos pesos faça:
+	somatoria_pesos = somatoria_pesos + peso
+resultado = somatario_elementos / somatorio_pesos
+escreva resultado 

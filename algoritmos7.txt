@@ -1,0 +1,9 @@
+leia numero
+se numero <= 1:
+    escreva não é primo
+senão:
+    para x em sequencia(2, numero - 1):
+        se numero % x == 0:
+            escreva não é primo
+escreva é primo
+        

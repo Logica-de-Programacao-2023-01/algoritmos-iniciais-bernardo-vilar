@@ -1,0 +1,12 @@
+leia porcentagem
+leia meses
+leia preco
+por = porcentagem / 100 + 1
+i = 2
+enquanto i <= meses:
+    por = por x por
+    i = i + 1
+juros = preco * por
+escreva juros 
+
+    

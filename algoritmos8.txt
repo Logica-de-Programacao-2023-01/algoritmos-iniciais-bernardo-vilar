@@ -1,0 +1,3 @@
+leia base
+leia altura 
+escreva base*altura/2

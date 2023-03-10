@@ -1,0 +1,7 @@
+leia numero
+i = 1
+x = 1
+enquanto i <= numero:
+    x = x * i
+    i = i + 1
+escreva x
